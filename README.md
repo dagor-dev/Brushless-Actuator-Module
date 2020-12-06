@@ -1,2 +1,2 @@
-# Dagr-Quadruped_Robot
-Open-source Quadruped robot
+# Brushless Motor Actuator Module
+Fully 3D-printed brushless-based actuator module for robotics.
