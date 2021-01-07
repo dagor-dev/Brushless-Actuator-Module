@@ -26,5 +26,5 @@ Fully 3D-printed brushless-based actuator module for robotics with wireless conn
 | Shell Cap		     | 1      | 24		|
 | 90 Degree Connector	     | 1      | 13		|
 
-![exploded](Images/BOMexploded.jpg)
+![exploded](Images/BOMexploded.JPG)
 
